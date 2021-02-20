@@ -1,2 +1,1 @@
-# Hi
-# hello
+# This is my attempt to redo my sorting algorithm visualizer and learn git as well in the process.
